@@ -1,0 +1,1 @@
+hist(cars$speed, col="green")
